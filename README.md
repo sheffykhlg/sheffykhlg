@@ -10,6 +10,13 @@
 
 <br/><br/>
 
+<!-- LIVE WEBSITE CTA BUTTON -->
+<a href="https://sheffykhlg.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20LIVE%20INTERACTIVE%20EXPERIENCE-EXPLORE%20PORTFOLIO%20🚀-00E5FF?style=for-the-badge&logoColor=08090d&labelColor=08090d" alt="Explore Live Portfolio"/>
+</a>
+
+<br/><br/>
+
 <!-- Real-time Status Badges & Counters -->
 <a href="https://github.com/sheffykhlg">
   <img src="https://komarev.com/ghpvc/?username=sheffykhlg&style=for-the-badge&color=08090d&labelColor=00E5FF&label=PROFILE+VIEWS" alt="Profile Views"/>

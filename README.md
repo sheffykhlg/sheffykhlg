@@ -5,7 +5,7 @@
 
 <!-- Dynamic Glowing Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Python+Backend+Developer+%26+Automation+Architect;%F0%9F%A4%96+Building+High-Speed+Telegram+Bots+%26+Microservices;%F0%9F%90%B3+Docker%2C+MongoDB+Atlas+%26+Cloud+Deployment+Specialist;%F0%9F%9A%80+Founder+%40SAMRABOTS+%7C+Always+Shipping+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&lines=%E2%9A%A1+Python+Backend+Developer+%26+Automation+Architect;%F0%9F%A4%96+Building+High-Speed+Telegram+Bots+%26+Microservices;%F0%9F%90%B3+Docker%2C+MongoDB+Atlas+%26+Cloud+Deployment+Specialist;%F0%9F%9A%80+Founder+%40desibotz+%7C+Always+Shipping+Clean+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -47,7 +47,7 @@ class SheffySamra:
         self.name        = "Sheffy Samra"
         self.location    = "India 🇮🇳"
         self.role        = "Python Engineer & Telegram MTProto Architect"
-        self.organization= "@SAMRABOTS 🚀"
+        self.organization= "@desibotz 🚀"
         self.stack       = ["Python 3.12+", "Kurigram", "Docker", "MongoDB Atlas", "Aiohttp", "JavaScript"]
         self.specialties = ["Asynchronous Architecture", "MTProto Engines", "CI/CD Pipelines", "Bypass & Scraping"]
         self.currently   = "Scaling 24/7 autonomous distributed Telegram bot networks"
@@ -159,7 +159,7 @@ print(me.say_hi())
 
 <div align="center">
 
-<a href="https://t.me/SAMRABOTS" target="_blank">
+<a href="https://t.me/desibotz" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-08090d?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"/>
 </a>
 &nbsp;
